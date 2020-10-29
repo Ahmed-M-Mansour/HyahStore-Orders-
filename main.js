@@ -49,7 +49,7 @@ function displayOrders()
         `
         <div class="col-md-4">
         <div class="order text-center p-2 mb-5">  
-        <img  class="img-fluid" src="images/order-img.jfif" alt="order image">
+        <img  class="img-fluid" src="images/11.jpg"alt="order image">
         <h3>`+ ordersContainer[i].name +` </h3>
         <h4> `+ ordersContainer[i].number +` </h4>
         <span class=" badge badge-info p-3"> `+ ordersContainer[i].price +` </span>
